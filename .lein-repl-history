@@ -1,0 +1,12 @@
+eate-spec tmp) 0) -1)
+)
+(((create-spec tmp) 0) -1)
+(require [clojure.spec :as spec])
+(require '[clojure.spec :as spec])
+(spec/valid?
+nvoice/currency-rate
+)
+(spec/valid?
+nvoice/currency-rate
+)
+(spec/valid?  :invoice/currency-rate 1.1)
